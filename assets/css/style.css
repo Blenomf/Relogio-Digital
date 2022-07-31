@@ -50,3 +50,20 @@ body {
     font-size: 10px;
 
 }
+
+
+
+footer {
+   
+    font-size: 14px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    left: 532px;
+    bottom: 180px;
+    color: rgba(5, 5, 5, 0.9);
+    font-weight: bold
+}
